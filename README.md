@@ -1,3 +1,4 @@
 # AI-Personal-Trainer
-Welcome to the AI Personal Trainer App, the easy-to-use platform for your gym posture correction! This app helps you improve your posture during gym workouts
-The first step is to \"submit\" your data. You can do that in two ways: **Live stream your video through the web cam**, or **Upload your file**. In all ways the data should be a video or image file and should not exceed 200 MB
+Welcome to our AI Personal Trainer App project, the easy-to-use platform for your gym posture correction!
+
+The project aims to revolutionize fitness guidance by leveraging cutting-edge technologies such as computer vision and machine learning. Through a multipage web application built with **Streamlit**, users receive real-time posture correction feedback during workouts. The integration of **OpenCV** and **Mediapipe** enables accurate posture detection and correction, ensuring optimal exercise form. Additionally, the application utilizes the **LLM Long Chain Model** to provide personalized weekly exercise plans tailored to individual users' fitness goals and progress. With efficient **SQL** database management, the project ensures seamless data storage and retrieval, contributing to a holistic and personalized fitness experience.
